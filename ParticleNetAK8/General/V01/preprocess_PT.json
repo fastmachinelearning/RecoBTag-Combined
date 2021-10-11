@@ -55,7 +55,7 @@
     "min_length": 16,
     "max_length": 100
   },
-  "pf_features_1": {
+  "pf_features__1": {
     "var_names": [
       "pfcand_pt_log_nopuppi",
       "pfcand_e_log_nopuppi",
